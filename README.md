@@ -1,5 +1,7 @@
 # AngularDynamicFormBuilder
 
+![alt text](https://raw.githubusercontent.com/Yabish/angular-dynamic-form-builder/master/src/assets/screenshot.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 ## Development server
